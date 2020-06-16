@@ -1,0 +1,18 @@
+.header{
+    text-align: center;
+    color: #ff253a;
+}
+.nave-menu{
+    background-color: brown;
+    padding: 10px;
+}
+.nave-menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.nave-menu a:hover{
+    background-color: thistle;
+}
